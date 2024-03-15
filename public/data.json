@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "banner_img": "https://i.ibb.co/3RvZX3z/e-news.jpg",
+    "banner_title": "Exciting News!",
+    "banner_hashtags": ["#news", "#update", "#exciting"],
+    "publish_date": "2024-03-14",
+    "author_img": "https://i.ibb.co/N39nyJ5/freestocks-9-UVml-Ib0w-JU-unsplash.jpg",
+    "author_name": "John Doe"
+  },
+  {
+    "id": 2,
+    "banner_img": "https://i.ibb.co/tZ8m0WN/s-promotion.jpg",
+    "banner_title": "Special Promotion!",
+    "banner_hashtags": ["#promotion", "#discount", "#limitedtime"],
+    "publish_date": "2024-03-13",
+    "author_img": "https://i.ibb.co/kBpTw4G/meysam-jarahkar-LI7j-B1925j0-unsplash.jpg",
+    "author_name": "Jane Smith"
+  },
+  {
+    "id": 3,
+    "banner_img": "https://i.ibb.co/xCGwzYL/new-p-l.jpg",
+    "banner_title": "New Product Launch!",
+    "banner_hashtags": ["#newproduct", "#launch", "#exciting"],
+    "publish_date": "2024-03-12",
+    "author_img": "https://i.ibb.co/p0sjKjK/ali-morshedlou-WMD64t-Mfc4k-unsplash.jpg",
+    "author_name": "Alice Johnson"
+  },
+  {
+    "id": 4,
+    "banner_img": "https://i.ibb.co/Sck1THt/u-event.jpg",
+    "banner_title": "Upcoming Event!",
+    "banner_hashtags": ["#event", "#conference", "#saveyourspot"],
+    "publish_date": "2024-03-11",
+    "author_img": "https://i.ibb.co/mTfQmgS/gregory-hayes-h5cd51-KXm-RQ-unsplash.jpg",
+    "author_name": "Bob Williams"
+  },
+  {
+    "id": 5,
+    "banner_img": "https://i.ibb.co/J2ZCmTD/exclusive-o.jpg",
+    "banner_title": "Exclusive Offer!",
+    "banner_hashtags": ["#offer", "#exclusive", "#limited"],
+    "publish_date": "2024-03-10",
+    "author_img": "https://i.ibb.co/8dTbqqy/darius-bashar-D6cgen-SS5-NY-unsplash.jpg",
+    "author_name": "Eva Brown"
+  }
+]
